@@ -1,9 +1,9 @@
 ---
 title: Past meetings 
 image:
-  path: "/assets/images/sheffield/"
-  alt: ""
-  attr: ""
+  path: "/assets/images/arches/Arches_Belfast_Day_1.png"
+  alt: "A photo from day one of the Belfast 2025 Arches developer meeting"
+  attr: "Arches developer meeting 2025, Belfast (photo by the GCI)"
 layout: layouts/pages.njk
 permalink: /past-meetings/index.html
 ---
