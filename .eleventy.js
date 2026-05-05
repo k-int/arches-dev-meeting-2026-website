@@ -1,3 +1,5 @@
+const YAML = require("yaml");
+
 module.exports = function (eleventyConfig) {
 
     eleventyConfig.addPassthroughCopy('src/styles');
@@ -8,6 +10,8 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addCollection('pages', (collection) => {
         return collection.getFilteredByGlob('src/pages/*.md');
     });
+
+    eleventyConfig.addDataExtension("yaml", (contents) => YAML.parse(contents));
 
     return {
         pathPrefix: "/",

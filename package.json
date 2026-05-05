@@ -2,7 +2,7 @@
   "name": "arches-dev-meet-2026-website",
   "version": "1.0.0",
   "main": "index.js",
-"scripts": {
+  "scripts": {
     "build": "npx @11ty/eleventy",
     "start": "npx @11ty/eleventy --serve",
     "watch": "npx @11ty/eleventy --watch"
@@ -13,5 +13,8 @@
   "description": "Static website for the Arches developer meeting 2026",
   "devDependencies": {
     "@11ty/eleventy": "^3.1.2"
+  },
+  "dependencies": {
+    "yaml": "^2.8.4"
   }
 }
