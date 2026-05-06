@@ -67,6 +67,13 @@ days:
         slug: "lingo-and-arches-8.1"
 
       - time: "16:00"
+        title: "Interfaces & Schemas"
+        speaker: "Phil Weir"
+        organisation: "Flax & Teal"
+        talk: true
+        slug: "interfaces-and-schemas"
+
+      - time: "16:30"
         title: "Discussions"
         speaker: "Group"
         talk: true
@@ -182,11 +189,9 @@ days:
         slug: "initiatives-from-governance"
 
       - time: "16:30"
-        title: "Interfaces & Schemas"
-        speaker: "Phil Weir"
-        organisation: "Flax & Teal"
+        title: "Discussions"
+        speaker: "Group"
         talk: true
-        slug: "interfaces-and-schemas"
 
       - time: "16:55"
         title: "General GCI remarks"
