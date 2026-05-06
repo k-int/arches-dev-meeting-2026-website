@@ -132,7 +132,7 @@ days:
         slug: "arches-ciim-integration"
 
       - time: "12:00"
-        title: "The Arches Search Application"
+        title: "The Arches Search Extension"
         speaker: "Christopher Byrd"
         organisation: "Farallon Geographics"
         talk: true

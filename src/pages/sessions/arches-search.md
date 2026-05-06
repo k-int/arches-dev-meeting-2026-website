@@ -1,12 +1,12 @@
 ---
-title: "The Arches Search Application"
+title: "The Arches Search Extension"
 speaker: "Christopher Byrd"
 organisation: "Farallon Geographics"
 layout: layouts/sessions.njk
 permalink: /sessions/arches-search/index.html
 ---
 
-What: The new arches search application.
+What: The new arches search extension.
 
 Why: It's a completely new pattern, from database through frontend. It allows for user-defined through-resource searching to any level.
 
