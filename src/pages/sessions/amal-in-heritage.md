@@ -1,6 +1,6 @@
 ---
 title: "AMAL in Heritage: An app for rapid conservation assessments for Arches"
-speaker: "Paul Burtenshaw"
+speaker: "Paul Burtenshaw & Laura Cook"
 organisation: "World Monuments Fund"
 layout: layouts/sessions.njk
 permalink: /sessions/amal-in-heritage/index.html
