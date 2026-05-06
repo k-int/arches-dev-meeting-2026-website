@@ -1,0 +1,16 @@
+{% extends "layouts/base.njk" %}
+
+{% block content %}
+
+<section class="main-content session" nav-theme="light">
+    <a href="{{ '/agenda' | url }}" class="back-link">← Back to Agenda</a>
+
+    <h2>{{ title }}</h2>
+    <h3>{{ speaker }}, {{ organisation }}</h3>
+
+    {{ content | safe }}
+</section>
+
+
+{% endblock %}
+

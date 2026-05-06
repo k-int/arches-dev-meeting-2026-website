@@ -1,0 +1,61 @@
+---
+title: Agenda
+image:
+  path: "/assets/images/sheffield/weston-park-museum.jpg"
+  alt: "Weston Park Museum"
+  attr: "Weston Park Museum (photo by Samuel Scandrett)"
+layout: layouts/pages.njk
+permalink: /agenda/index.html
+---
+
+<section class="agenda-container">
+
+    {% for day in agenda.days %}
+        <h2>{{ day.date }}</h2>
+        <div class="agenda-table-container">
+        <table class="agenda-table">
+            {% for item in day.items %}
+                <tr class="{% if not item.talk %}agenda-break{% endif %}">
+                    <td class="time">{{ item.time }}</td>
+                    {% if not item.talk %}
+                        <td colspan="2" class="break-content">
+                            {{ item.title }}
+                        </td>
+                    {% else %}
+                        <td class="session">
+                            {% if item.slug %}
+                                <a href="{{ ['/sessions/', item.slug, '/'] | join | url }}" class="session-link">
+                                    <strong>{{ item.title }}</strong>
+                                </a>
+                            {% else %}
+                                <strong>{{ item.title }}</strong>
+                            {% endif %}
+                        </td>
+                        <td class="speaker">
+                            {% if item.speaker %}
+                                <span >{{ item.speaker }}</span>
+                            {% endif %}
+                        </td>
+                    {% endif %}
+                </tr>
+            {% endfor %}
+        </table>
+        </div>
+    {% endfor %}
+
+    <p>Day 3 will consist of discussions organised in an unconferenced format. Discussion topics can be suggested and collected during the course of the conference.
+    </p>
+    <p>We already have a couple discussion topics including:</p>
+    <ul>
+        <li><a href="/arches-core-and-apps">Defining the boundaries of Arches Core and Apps</a>, Brett Ferguson</li>
+        <li><a href="/arches-apps-lessons-learned">Arches applications - lessons learned and the future</a>, Rob Gaston</li>
+        <li>Discussing the Arches 5 year plan</li> 
+    </ul>
+    <br>
+    <br>
+        <h2>Day 4 - Thursday 11th June</h2>
+        <p>Knowledge Integration are hosting a hackathon after the Developer Meeting, hosted at the Kelham Island Museum. For
+            more information see our page
+            <a href="/hackathon">here</a>.</p>
+
+    </section>

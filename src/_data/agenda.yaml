@@ -1,0 +1,269 @@
+days:
+  - date: "Day 1 - Monday 8th June"
+    items:
+      - time: "10:30"
+        title: "Arrival / meet & greet"
+        talk: false
+
+      - time: "11:15"
+        title: "Introductions"
+        talk: false
+
+      - time: "11:30"
+        title: "Use of Zod for JS schema validation"
+        speaker: "Brett Ferguson"
+        organisation: "QED Systems Inc"
+        talk: true
+        slug: "zod-schema-validation"
+
+      - time: "12:00"
+        title: "The DRIFT project, Building Classification and Rapid Vulnerability Evaluation in Post-Earthquake Reconnaissance"
+        speaker: "Dr Marianna Ercolino"
+        organisation: "Aralia Systems & Brunel University London"
+        talk: true
+        slug: "drift-project"
+
+      - time: "12:30"
+        title: "Starches - Static Arches with Dynamic Search"
+        speaker: "Stuart Marshall"
+        organisation: "Flax & Teal"
+        talk: true
+        slug: "starches"
+
+      - time: "13:00"
+        title: "Lunch"
+        talk: false
+
+      - time: "14:00"
+        title: "Working with linked data - Enhanced CSV Import/Export and Bulk Data Merges"
+        speaker: "Mala Mathur"
+        organisation: "Getty"
+        talk: true
+        slug: "linked-data"
+
+      - time: "14:30"
+        title: "Adding an Accessibility CI test to GitHub"
+        speaker: "Paul Hudson"
+        organisation: "Historic England"
+        talk: true
+        slug: "accessibility-ci"
+
+      - time: "15:00"
+        title: "Arches Lintels - lowering the barrier to entry for Arches"
+        speaker: "Samuel Scandrett"
+        organisation: "Knowledge Integration"
+        talk: true
+        slug: ""
+
+      - time: "15:15"
+        title: "Break"
+        talk: false
+
+      - time: "15:30"
+        title: "Lingo 1.0 and Arches 8.1: Lessons Learned and the Future"
+        speaker: "Rob Gaston"
+        organisation: "Farallon Geographics"
+        talk: true
+        slug: "lingo-and-arches-8.1"
+
+      - time: "16:00"
+        title: "Discussions"
+        speaker: "Group"
+        talk: true
+
+      - time: "16:30"
+        title: "Discussions"
+        speaker: "Group"
+        talk: true
+
+      - time: "17:00"
+        title: "Reception dinner at the Millennium Gallery"
+        talk: false
+
+      - time: "19:00"
+        title: "Pub visit: Triple Point Brewery"
+        talk: false
+
+  - date: "Day 2 - Tuesday 9th June"
+    items:
+      - time: "09:00"
+        title: "Breakfast"
+        talk: false
+
+      - time: "09:30"
+        title: "So, where do you see yourself in 5 years?"
+        speaker: "Dennis Wuthrich"
+        organisation: "Farallon Geographics"
+        talk: true
+        slug: "arches-in-5-years"
+
+      - time: "10:00"
+        title: "ETL aka how the data travels"
+        speaker: "Jana Lorencova"
+        organisation: "Flax & Teal"
+        talk: true
+        slug: "etl"
+
+      - time: "10:30"
+        title: "Making Arches records easier to read: a practical look at rule-based Display Descriptors"
+        speaker: "Rob Oates"
+        organisation: "Historic England"
+        talk: true
+        slug: "rule-based-descriptors"
+
+      - time: "11:00"
+        title: "Arches Container Tool CLI"
+        speaker: "Andy Jones"
+        organisation: "Historic England"
+        talk: true
+        slug: "arches-container-tool-cli"
+
+      - time: "11:15"
+        title: "Break"
+        talk: false
+
+      - time: "11:30"
+        title: "Arches CIIM Integration: Codeless, configurable, config-based extract-load-transform (ELT)"
+        speaker: "Sam Cameron"
+        organisation: "Knowledge Integration"
+        talk: true
+        slug: ""
+
+      - time: "12:00"
+        title: "The Arches Search Application"
+        speaker: "Christopher Byrd"
+        organisation: "Farallon Geographics"
+        talk: true
+        slug: "arches-search"
+
+      - time: "12:30"
+        title: "Kibana for Arches: Setup, Dashboards, and Limitations"
+        speaker: "Junaid Abdul Jabbar"
+        organisation: "University of Cambridge"
+        talk: true
+        slug: "kibana-for-arches"
+
+      - time: "13:00"
+        title: "Lunch"
+        talk: false
+
+      - time: "14:00"
+        title: "AMAL in Heritage: An app for rapid conservation assessments for Arches"
+        speaker: "Paul Burtenshaw"
+        organisation: "World Monuments Fund"
+        talk: true
+        slug: "amal-in-heritage"
+
+      - time: "14:30"
+        title: "Editing in Modular Reports and using search to drive dashboarding"
+        speaker: "Alexei Peters"
+        organisation: "Farallon Geographics"
+        talk: true
+        slug: "modular-reports-dashboarding"
+
+      - time: "15:00"
+        title: "Arches Auditing"
+        speaker: "Chris Damm"
+        organisation: "Knowledge Integration"
+        talk: true
+        slug: ""
+
+      - time: "15:15"
+        title: "Break"
+        talk: false
+
+      - time: "15:30"
+        title: "Migrating Models and Tile Data for Arches Application Versioning"
+        speaker: "Cyrus Hiatt"
+        organisation: "Farallon Geographics"
+        talk: true
+        slug: "migrating-models-tiles"
+
+      - time: "16:00"
+        title: "Initiatives from the Arches Project Governance"
+        speaker: "Kevin Kochanski"
+        organisation: "Getty Conservation Institute"
+        talk: true
+        slug: "initiatives-from-governance"
+
+      - time: "16:30"
+        title: "Interfaces & Schemas"
+        speaker: "Phil Weir"
+        organisation: "Flax & Teal"
+        talk: true
+        slug: "interfaces-and-schemas"
+
+      - time: "16:55"
+        title: "General GCI remarks"
+        speaker: "Kevin Kochanski"
+        organisation: "Getty Conservation Institute"
+        talk: true
+
+      - time: "17:30"
+        title: "Pub visit: The Old Shoe"
+        talk: false
+
+      - time: "19:00"
+        title: "GCI Dinner (Venue TBC)"
+        talk: false
+
+  - date: "Day 3 - Wednesday 10th June"
+    items:
+      - time: "09:00"
+        title: "Breakfast"
+        talk: false
+
+      - time: "09:30"
+        title: "Compose list of discussions"
+        talk: true
+        speaker: "Group"
+
+      - time: "10:00"
+        title: "Begin unconference"
+        talk: true
+        speaker: "Group"
+
+      - time: "11:15"
+        title: "Break"
+        talk: false
+
+      - time: "11:15"
+        title: "Unconference"
+        talk: true
+        speaker: "Group"
+
+      - time: "13:00"
+        title: "Lunch & look around the gallery"
+        talk: false
+
+      - time: "14:30"
+        title: "Unconference"
+        talk: true
+        speaker: "Group"
+
+      - time: "15:15"
+        title: "Break"
+        talk: false
+
+      - time: "15:30"
+        title: "Unconference"
+        talk: true
+        speaker: "Group"
+
+      - time: "16:00"
+        title: "Report on discussions and follow-ups"
+        talk: true
+        speaker: "Group"
+
+      - time: "16:30"
+        title: "Reflections on developer meeting"
+        talk: true
+        speaker: "Group"
+
+      - time: "17:30"
+        title: "Pub visit to Victoria Quays"
+        talk: false
+
+      - time: "19:00"
+        title: "Dinner at Ego"
+        talk: false
