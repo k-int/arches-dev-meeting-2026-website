@@ -53,7 +53,7 @@ days:
         speaker: "Samuel Scandrett"
         organisation: "Knowledge Integration"
         talk: true
-        slug: ""
+        slug: "arches-lintels"
 
       - time: "15:15"
         title: "Break"
@@ -67,11 +67,6 @@ days:
         slug: "lingo-and-arches-8.1"
 
       - time: "16:00"
-        title: "Discussions"
-        speaker: "Group"
-        talk: true
-
-      - time: "16:30"
         title: "Discussions"
         speaker: "Group"
         talk: true
@@ -127,7 +122,7 @@ days:
         speaker: "Sam Cameron"
         organisation: "Knowledge Integration"
         talk: true
-        slug: ""
+        slug: "arches-ciim-integration"
 
       - time: "12:00"
         title: "The Arches Search Application"
@@ -166,7 +161,7 @@ days:
         speaker: "Chris Damm"
         organisation: "Knowledge Integration"
         talk: true
-        slug: ""
+        slug: "arches-auditing"
 
       - time: "15:15"
         title: "Break"
