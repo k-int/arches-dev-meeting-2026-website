@@ -12,5 +12,5 @@ Why: It's a completely new pattern, from database through frontend. It allows fo
 
 Who: developers and end-users
 
-How: It's a new tool with a robust backend that already powers other applications like dashboards. It will largely gain wide adoption and could eventually replace default arches search.
+How: It's a new tool with a robust backend that already powers other extensions like dashboards. It will largely gain wide adoption and could eventually replace default arches search.
 
