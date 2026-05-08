@@ -1,5 +1,5 @@
 ---
-title: "Arches CIIM Integration: Codeless, configurable, config-based extract-load-transform (ELT)"
+title: "Arches CIIM Integration: Low-code configurable extract-load-transform (ELT)"
 speaker: "Sam Cameron"
 organisation: "Knowledge Integration"
 layout: layouts/sessions.njk
