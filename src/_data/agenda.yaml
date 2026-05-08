@@ -125,7 +125,7 @@ days:
         talk: false
 
       - time: "11:30"
-        title: "Arches CIIM Integration: Codeless, configurable, config-based extract-load-transform (ELT)"
+        title: "Arches CIIM Integration: Low-code configurable extract-load-transform (ELT)"
         speaker: "Sam Cameron"
         organisation: "Knowledge Integration"
         talk: true
