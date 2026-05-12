@@ -79,7 +79,7 @@ days:
         talk: true
 
       - time: "17:00"
-        title: "Reception dinner at the Millennium Gallery"
+        title: "Reception dinner at the Millennium Gallery (provided by K-Int)"
         talk: false
 
       - time: "19:00"
@@ -204,7 +204,7 @@ days:
         talk: false
 
       - time: "19:00"
-        title: "GCI Dinner (Venue TBC)"
+        title: "Dinner at Riverside Kelham (provided by the GCI)"
         talk: false
 
   - date: "Day 3 - Wednesday 10th June"
