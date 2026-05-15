@@ -74,9 +74,11 @@ days:
         slug: "interfaces-and-schemas"
 
       - time: "16:30"
-        title: "Discussions"
-        speaker: "Group"
+        title: "Pletka: Establishing Semantic Ground Truth and Long-term Documentation Pathways for Arches Deployments"
+        speaker: "Denitsa Nenova"
+        organisation: "Takin.solutions"
         talk: true
+        slug: "pletka"
 
       - time: "17:00"
         title: "Reception dinner at the Millennium Gallery (provided by K-Int)"
