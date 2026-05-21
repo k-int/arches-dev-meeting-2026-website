@@ -85,7 +85,7 @@ days:
         talk: false
 
       - time: "19:00"
-        title: "Pub visit: Triple Point Brewery"
+        title: "Pub visit: The Head of Steam"
         talk: false
 
   - date: "Day 2 - Tuesday 9th June"
@@ -202,7 +202,7 @@ days:
         talk: true
 
       - time: "17:30"
-        title: "Pub visit: The Old Shoe"
+        title: "Pub visit: The Gardeners Rest"
         talk: false
 
       - time: "19:00"
@@ -263,7 +263,7 @@ days:
         speaker: "Group"
 
       - time: "17:30"
-        title: "Pub visit to Victoria Quays"
+        title: "Pub visit: The Old Shoe"
         talk: false
 
       - time: "19:00"
